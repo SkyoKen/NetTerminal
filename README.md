@@ -19,7 +19,7 @@
 ##### 他のコンピュータに接続しする
 * 方法: `“127.0.0.1”` の部分を接続したいコンピュータのIPアドレスに変更してから実行する
 #### 実行例
-![Net_introduction](https://github.com/SkyoKen/Net_Termianl/blob/master/Net/introduction.png)
+![Net_introduction](https://github.com/SkyoKen/Net_Terminal/blob/master/Net/introduction.png)
 #### 参考資料
 [[1] Processing で通信するプログラムを作る （参照日 2019.06.18）](http://www2.kobe-u.ac.jp/~tnishida/misc/processing-net.html)
 
@@ -31,13 +31,13 @@
 3. C#->C#
 #### 実行例
 1. processing->processing  
-![pp_introduction](https://github.com/SkyoKen/Net_Termianl/blob/master/UDP/processing_processing.png)
+![pp_introduction](https://github.com/SkyoKen/Net_Terminal/blob/master/UDP/processing_processing.png)
 2. processing->C#  
-![pC#_introduction](https://github.com/SkyoKen/Net_Termianl/blob/master/UDP/processing_C%23.png)
+![pC#_introduction](https://github.com/SkyoKen/Net_Terminal/blob/master/UDP/processing_C%23.png)
 3. C#->processing  
-![C#p_introduction](https://github.com/SkyoKen/Net_Termianl/blob/master/UDP/C%23_processing.png)
+![C#p_introduction](https://github.com/SkyoKen/Net_Terminal/blob/master/UDP/C%23_processing.png)
 4. C#->C#  
-![C#C#_introduction](https://github.com/SkyoKen/Net_Termianl/blob/master/UDP/C%23_C%23.png)
+![C#C#_introduction](https://github.com/SkyoKen/Net_Terminal/blob/master/UDP/C%23_C%23.png)
 #### 参考資料
 [[1] C#のWinアプリからProcessingにUDP通信する（指導用） （参照日 2019.06.21）](https://memorandums.hatenablog.com/entry/2016/11/08/203610)  
 [[2] 【Processing】UDPの送受信 （参照日 2019.06.21）](https://qiita.com/GoshikiNiji/items/b716ed113b83856f5231)
