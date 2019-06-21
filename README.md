@@ -31,13 +31,13 @@
 3. C#->C#
 #### 実行例
 1. processing->processing  
-![pp_introduction](https://github.com/SkyoKen/Net_Termianl/tree/master/UDP/processing->processing.png)
+![pp_introduction](https://github.com/SkyoKen/Net_Termianl/tree/master/UDP/processing_processing.png)
 2. processing->C#  
-![pC#_introduction](https://github.com/SkyoKen/Net_Termianl/tree/master/UDP/processing->C#.png)
+![pC#_introduction](https://github.com/SkyoKen/Net_Termianl/tree/master/UDP/processing_C#.png)
 3. C#->processing  
-![C#p_introduction](https://github.com/SkyoKen/Net_Termianl/tree/master/UDP/C#->processing.png)
+![C#p_introduction](https://github.com/SkyoKen/Net_Termianl/tree/master/UDP/C#_processing.png)
 4. C#->C#  
-![C#C#_introduction](https://github.com/SkyoKen/Net_Termianl/tree/master/UDP/C#->C#.png)
+![C#C#_introduction](https://github.com/SkyoKen/Net_Termianl/tree/master/UDP/C#_C#.png)
 #### 参考資料
 [[1] C#のWinアプリからProcessingにUDP通信する（指導用） （参照日 2019.06.21）](https://memorandums.hatenablog.com/entry/2016/11/08/203610)  
 [[2] 【Processing】UDPの送受信 （参照日 2019.06.21）](https://qiita.com/GoshikiNiji/items/b716ed113b83856f5231)
